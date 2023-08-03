@@ -22,7 +22,6 @@
 
 
 
-### Hi there 👋
 #### SUNCHEOL
 
 <!--
